@@ -4,19 +4,19 @@
 
 <div align="center">
 
-### Hola! Mi nombre es Sebastián Carrasco
+### Hola! Soy Sebastián Carrasco
 
 <br>
 
-Soy estudiante de Ingeniería Civil Industrial en la Universidad de Chile, tomando ramos el Magister en Ciencia de Datos.
+Soy estudiante de Ingeniería Civil Industrial en la Universidad de Chile, postulando al Magister en Ciencia de Datos.
 </div>
 
 <br>
 
 ## Acerca de mí
 
-- 👀 Estoy muy interesado en Machine Learning, apuntando a roles de Data Scientist o ML Engineer.
-- 🎓 Estoy en mi 10mo semestre de la carrera, esperando escribir mi tesis 2027.
+- 👀 Mi área de interés principal es Machine Learning, especialmente en intersecciones con Inferencia Causal y Toma de Decisiones.
+- 🎓 Estoy en mi 10mo semestre de la carrera, postulando al MDS para el ingreso de Marzo 2027.
 - 🎮 Me gustan los juegos competitivos y FPS.
 
 ## Tech Stack 🛠️
