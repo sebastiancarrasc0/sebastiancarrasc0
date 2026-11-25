@@ -3,7 +3,7 @@
 <div align="center">
     <img src="public/foto.jpg" width="340" style="border-radius: 12px">
     <br>
-    <em>La luna en Zapallar, en una salida memorable con amigos</em>
+    <em>El cielo en la noche en Zapallar, en una salida memorable con amigos</em>
 </div>
 
 <br>
@@ -33,7 +33,7 @@ Vivo en Santiago de Chile. Soy **Licenciado en Ciencias de la Ingeniería, menci
 
 ## Sobre mí 🧭
 
-- 💙 Me interesa sobre todo **Machine Learning**, en particular donde se cruza con la **Inferencia Causal** y la **Toma de Decisiones**. También los modelos predictivos, generativos y de aprendizaje profundo.
+- 💙 Mis intereses principales son **Machine Learning**, **Modelos de Lenguaje**, **Inferencia Causal** y **Toma de Decisiones basada en ML**.
 - 🥉 Con el equipo Bombazo sacamos el **3er lugar en la Hackatón AWS Breaking Barriers Chile 2026** con *ChileAtiende a Tiempo*, un prototipo hecho en 3 días que acerca los beneficios sociales a quienes les corresponden usando IA generativa.
 - ♟️ Fuera del código: ajedrez, cubo Rubik, juegos de estrategia y competitivos, y entrenamiento de fuerza.
 
